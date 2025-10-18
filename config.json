@@ -1,0 +1,10 @@
+{
+  "token": "YOUR_BOT_TOKEN",
+  "secret": "YOUR_BOT_SECRET",
+  "id": "YOUR_BOT_CLIENT_ID",
+  "redirect": "http://217.154.239.23:14142/callback",
+  "api_endpoint": "https://canary.discord.com/api/v10",
+  "webhook": "YOUR_WEBHOOK_URL",
+  "guild_ids": ["GUILD_ID_1", "GUILD_ID_2"],
+  "role_ids": ["ROLE_ID_1", "ROLE_ID_2"]
+}
