@@ -19,7 +19,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/pyattrs/AuthCord-Inc.git
+git clone https://github.com/pyattrz/AuthCord-Inc.git
 cd authcord-inc
 
 # Install dependencies
